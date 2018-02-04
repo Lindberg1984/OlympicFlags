@@ -1,0 +1,17 @@
+body {
+  padding: 20px;
+}
+
+.flag__wrapper {
+  background-color: #FFFFFF;
+  background-image: url("img/olympic-rings.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 54%;
+  display: inline-block;
+  margin: 0 auto;
+  height: 342.75px;
+  width: 700px; /* height is 48.55%; */
+  border: 1px solid black;
+  border-radius: 9px;
+;}
